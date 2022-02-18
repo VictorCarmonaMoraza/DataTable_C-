@@ -1,0 +1,32 @@
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.exe
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.deps.json
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.runtimeconfig.json
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.runtimeconfig.dev.json
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.dll
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ref\ConsolaDataTable.dll
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.pdb
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.csproj.AssemblyReference.cache
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.AssemblyInfoInputs.cache
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.AssemblyInfo.cs
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.dll
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ref\ConsolaDataTable.dll
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.pdb
+C:\Users\Victo\Source\Repos\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.exe
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.deps.json
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.runtimeconfig.json
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.runtimeconfig.dev.json
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.dll
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ref\ConsolaDataTable.dll
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\bin\Debug\net5.0\ConsolaDataTable.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.dll
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ref\ConsolaDataTable.dll
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\DataTables c#\ConsolaDataTable\ConsolaDataTable\obj\Debug\net5.0\ConsolaDataTable.genruntimeconfig.cache
